@@ -1,0 +1,14 @@
+C:\Users\79152\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.exe
+C:\Users\79152\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.deps.json
+C:\Users\79152\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.runtimeconfig.json
+C:\Users\79152\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.dll
+C:\Users\79152\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.pdb
+C:\Users\79152\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79152\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.AssemblyInfoInputs.cache
+C:\Users\79152\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.AssemblyInfo.cs
+C:\Users\79152\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\79152\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.dll
+C:\Users\79152\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\refint\калькулятор.dll
+C:\Users\79152\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.pdb
+C:\Users\79152\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.genruntimeconfig.cache
+C:\Users\79152\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\ref\калькулятор.dll
