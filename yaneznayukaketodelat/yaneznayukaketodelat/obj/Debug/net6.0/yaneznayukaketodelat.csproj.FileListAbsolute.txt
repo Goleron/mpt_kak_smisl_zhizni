@@ -1,0 +1,14 @@
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\bin\Debug\net6.0\yaneznayukaketodelat.exe
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\bin\Debug\net6.0\yaneznayukaketodelat.deps.json
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\bin\Debug\net6.0\yaneznayukaketodelat.runtimeconfig.json
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\bin\Debug\net6.0\yaneznayukaketodelat.dll
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\bin\Debug\net6.0\yaneznayukaketodelat.pdb
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\obj\Debug\net6.0\yaneznayukaketodelat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\obj\Debug\net6.0\yaneznayukaketodelat.AssemblyInfoInputs.cache
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\obj\Debug\net6.0\yaneznayukaketodelat.AssemblyInfo.cs
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\obj\Debug\net6.0\yaneznayukaketodelat.csproj.CoreCompileInputs.cache
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\obj\Debug\net6.0\yaneznayukaketodelat.dll
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\obj\Debug\net6.0\refint\yaneznayukaketodelat.dll
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\obj\Debug\net6.0\yaneznayukaketodelat.pdb
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\obj\Debug\net6.0\yaneznayukaketodelat.genruntimeconfig.cache
+C:\Users\79152\source\repos\yaneznayukaketodelat\yaneznayukaketodelat\obj\Debug\net6.0\ref\yaneznayukaketodelat.dll
