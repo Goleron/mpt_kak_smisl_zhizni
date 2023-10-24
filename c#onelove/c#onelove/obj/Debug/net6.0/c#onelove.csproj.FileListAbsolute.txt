@@ -1,0 +1,4 @@
+C:\Users\79152\source\repos\c#onelove\c#onelove\obj\Debug\net6.0\c#onelove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79152\source\repos\c#onelove\c#onelove\obj\Debug\net6.0\c#onelove.AssemblyInfoInputs.cache
+C:\Users\79152\source\repos\c#onelove\c#onelove\obj\Debug\net6.0\c#onelove.AssemblyInfo.cs
+C:\Users\79152\source\repos\c#onelove\c#onelove\obj\Debug\net6.0\c#onelove.csproj.CoreCompileInputs.cache
