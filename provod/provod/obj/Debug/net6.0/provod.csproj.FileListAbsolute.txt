@@ -1,0 +1,14 @@
+C:\Users\79152\source\repos\provod\provod\obj\Debug\net6.0\provod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79152\source\repos\provod\provod\obj\Debug\net6.0\provod.AssemblyInfoInputs.cache
+C:\Users\79152\source\repos\provod\provod\obj\Debug\net6.0\provod.AssemblyInfo.cs
+C:\Users\79152\source\repos\provod\provod\obj\Debug\net6.0\provod.csproj.CoreCompileInputs.cache
+C:\Users\79152\source\repos\provod\provod\bin\Debug\net6.0\provod.exe
+C:\Users\79152\source\repos\provod\provod\bin\Debug\net6.0\provod.deps.json
+C:\Users\79152\source\repos\provod\provod\bin\Debug\net6.0\provod.runtimeconfig.json
+C:\Users\79152\source\repos\provod\provod\bin\Debug\net6.0\provod.dll
+C:\Users\79152\source\repos\provod\provod\bin\Debug\net6.0\provod.pdb
+C:\Users\79152\source\repos\provod\provod\obj\Debug\net6.0\provod.dll
+C:\Users\79152\source\repos\provod\provod\obj\Debug\net6.0\refint\provod.dll
+C:\Users\79152\source\repos\provod\provod\obj\Debug\net6.0\provod.pdb
+C:\Users\79152\source\repos\provod\provod\obj\Debug\net6.0\provod.genruntimeconfig.cache
+C:\Users\79152\source\repos\provod\provod\obj\Debug\net6.0\ref\provod.dll
