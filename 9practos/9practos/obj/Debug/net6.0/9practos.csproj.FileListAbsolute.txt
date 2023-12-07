@@ -1,0 +1,14 @@
+C:\Users\79152\source\repos\9practos\9practos\bin\Debug\net6.0\9practos.exe
+C:\Users\79152\source\repos\9practos\9practos\bin\Debug\net6.0\9practos.deps.json
+C:\Users\79152\source\repos\9practos\9practos\bin\Debug\net6.0\9practos.runtimeconfig.json
+C:\Users\79152\source\repos\9practos\9practos\bin\Debug\net6.0\9practos.dll
+C:\Users\79152\source\repos\9practos\9practos\bin\Debug\net6.0\9practos.pdb
+C:\Users\79152\source\repos\9practos\9practos\obj\Debug\net6.0\9practos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79152\source\repos\9practos\9practos\obj\Debug\net6.0\9practos.AssemblyInfoInputs.cache
+C:\Users\79152\source\repos\9practos\9practos\obj\Debug\net6.0\9practos.AssemblyInfo.cs
+C:\Users\79152\source\repos\9practos\9practos\obj\Debug\net6.0\9practos.csproj.CoreCompileInputs.cache
+C:\Users\79152\source\repos\9practos\9practos\obj\Debug\net6.0\9practos.dll
+C:\Users\79152\source\repos\9practos\9practos\obj\Debug\net6.0\refint\9practos.dll
+C:\Users\79152\source\repos\9practos\9practos\obj\Debug\net6.0\9practos.pdb
+C:\Users\79152\source\repos\9practos\9practos\obj\Debug\net6.0\9practos.genruntimeconfig.cache
+C:\Users\79152\source\repos\9practos\9practos\obj\Debug\net6.0\ref\9practos.dll
