@@ -1,0 +1,34 @@
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\bin\Debug\net6.0\Practise Task №10 (Informatin System).exe
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\bin\Debug\net6.0\Practise Task №10 (Informatin System).deps.json
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\bin\Debug\net6.0\Practise Task №10 (Informatin System).runtimeconfig.json
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\bin\Debug\net6.0\Practise Task №10 (Informatin System).dll
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\bin\Debug\net6.0\Practise Task №10 (Informatin System).pdb
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).AssemblyInfo.cs
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).dll
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\obj\Debug\net6.0\refint\Practise Task №10 (Informatin System).dll
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).pdb
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).genruntimeconfig.cache
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\obj\Debug\net6.0\ref\Practise Task №10 (Informatin System).dll
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Максим\source\repos\Practise Task №10 (Informatin System)\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).csproj.CopyComplete
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\bin\Debug\net6.0\Practise Task №10 (Informatin System).exe
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\bin\Debug\net6.0\Practise Task №10 (Informatin System).deps.json
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\bin\Debug\net6.0\Practise Task №10 (Informatin System).runtimeconfig.json
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\bin\Debug\net6.0\Practise Task №10 (Informatin System).dll
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\bin\Debug\net6.0\Practise Task №10 (Informatin System).pdb
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).csproj.AssemblyReference.cache
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).AssemblyInfoInputs.cache
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).AssemblyInfo.cs
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).csproj.CoreCompileInputs.cache
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).csproj.CopyComplete
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).dll
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\obj\Debug\net6.0\refint\Practise Task №10 (Informatin System).dll
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).pdb
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\obj\Debug\net6.0\Practise Task №10 (Informatin System).genruntimeconfig.cache
+C:\Users\79152\source\repos\-_-\Practise Task №10 (Informatin System)\obj\Debug\net6.0\ref\Practise Task №10 (Informatin System).dll
