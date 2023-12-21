@@ -1,0 +1,24 @@
+[
+	{
+		"atribute": 1,
+		"password": "0987",
+		"id": 1,
+		"name": "петя",
+		"surname": "жориков",
+		"patronymic": "Zh",
+		"start": {
+			"date": 26,
+			"year": 1979,
+			"month": 12 
+		},
+		"passport": {
+			"serial": 1451,
+			"number": 145115
+
+		},
+		"post": "Slovopacana@gmail.com",
+		"salary": 10000,
+		"privID": 1
+
+	}
+]
