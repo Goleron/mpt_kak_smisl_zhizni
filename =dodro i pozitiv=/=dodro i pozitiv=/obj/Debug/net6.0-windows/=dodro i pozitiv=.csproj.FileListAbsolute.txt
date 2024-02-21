@@ -1,0 +1,21 @@
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\bin\Debug\net6.0-windows\=dodro i pozitiv=.exe
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\bin\Debug\net6.0-windows\=dodro i pozitiv=.deps.json
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\bin\Debug\net6.0-windows\=dodro i pozitiv=.runtimeconfig.json
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\bin\Debug\net6.0-windows\=dodro i pozitiv=.dll
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\bin\Debug\net6.0-windows\=dodro i pozitiv=.pdb
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\Page1.baml
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\Page1.g.cs
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\=dodro i pozitiv=_MarkupCompile.cache
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\=dodro i pozitiv=.g.resources
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\=dodro i pozitiv=.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\=dodro i pozitiv=.AssemblyInfoInputs.cache
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\=dodro i pozitiv=.AssemblyInfo.cs
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\=dodro i pozitiv=.csproj.CoreCompileInputs.cache
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\=dodro i pozitiv=.dll
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\refint\=dodro i pozitiv=.dll
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\=dodro i pozitiv=.pdb
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\=dodro i pozitiv=.genruntimeconfig.cache
+C:\Users\79152\source\repos\=dodro i pozitiv=\=dodro i pozitiv=\obj\Debug\net6.0-windows\ref\=dodro i pozitiv=.dll

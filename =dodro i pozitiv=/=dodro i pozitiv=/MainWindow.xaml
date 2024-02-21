@@ -1,0 +1,26 @@
+﻿<Window x:Class="_dodro_i_pozitiv_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Заметки" Height="450" Width="800">
+    <DockPanel>
+        <ToolBar DockPanel.Dock="Top">
+            <Button Content="Добавить заметку" Click="AddNoteButton_Click" />
+            <DatePicker x:Name="datePicker" />
+            <Button Content="Изменить заметку" Click="EditNoteButton_Click" />
+            <Button Content="Удалить заметку" Click="DeleteNoteButton_Click" />
+        </ToolBar>
+
+        <ListBox x:Name="notesListBox" DockPanel.Dock="Left" Width="200" Margin="5" 
+                 DisplayMemberPath="Zametka">
+        </ListBox>
+
+        <Grid DockPanel.Dock="Right" Margin="5">
+            <StackPanel>
+                <TextBlock Text="Название:" FontWeight="Bold" />
+                <TextBlock x:Name="selectedNoteTitle" Margin="5" />
+                <TextBlock Text="Описание:" FontWeight="Bold" />
+                <TextBlock x:Name="selectedNoteDescription" Margin="5" />
+            </StackPanel>
+        </Grid>
+    </DockPanel>
+</Window>
